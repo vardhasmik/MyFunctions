@@ -26,3 +26,4 @@ countBs=(string, symbol)=>{
 }
 
 console.log(countBs("hello-hello", 'o'))
+//example
